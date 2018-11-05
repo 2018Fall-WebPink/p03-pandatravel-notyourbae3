@@ -1,0 +1,34 @@
+/*
+* Emily
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: silver;
+    
+    width:100%;
+        margin: auto;
+
+}
+
+#Lighthouse { width: 300px; height: 400px; }
+#Lighthousefig {float:left;}
+
+#Risingmoon { width: 500px; height: 300px; }
+#Risingmoonfig{float:right;}
+
+#staugustine { width: 500px; height: 400px; }
+#B&Wfig{float:right;}
+
+#Staircase { width: 500px; height: 400px; }
+#Staircasefig{float:right;}
+
